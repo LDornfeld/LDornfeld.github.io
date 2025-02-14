@@ -11,7 +11,8 @@ css: styles/styles_BG.css
 
 - Applied enhanced sampling molecular dynamics to study cyclic peptide permeability and structure-activity relationships.  
 - Developed computational workflows integrating GROMACS, PLUMED, and RDKit for molecular simulations.  
-- Conducted statistical physics-based analysis to interpret simulation outcomes.  
+- Conducted statistical physics-based analysis to interpret simulation outcomes.
+- Proposed several variants with improved permeability profiles. 
 
 **Skills:**  
 <div class="skills-container">
@@ -25,14 +26,13 @@ css: styles/styles_BG.css
 </div>
 
 
----
-
 ### Internship in Machine Learning for Protein Design
 **IBMB Barcelona, Dr. Noelia Ferruz** (Jun. 2023 – Oct. 2023)  
 
-- Trained and optimized large language models (LLMs) for predicting protein-small molecule interactions.  
-- Implemented and fine-tuned transformer architectures (HuggingFace, PyTorch) on high-performance computing (HPC) clusters.  
-- Presented research findings at the 2nd European Rosettacon, demonstrating practical applications of AI in protein engineering.  
+- Trained and optimized large language models (LLMs) to generate small-molecule binding proteins.
+- Implemented and fine-tuned transformer architectures on high-performance computing (HPC) clusters.  
+- Limited success due to limited data availability and model overfitting.
+- Presented research findings at the 2nd European Rosettacon.
 
 **Skills:**  
 <div class="skills-container">
@@ -45,31 +45,29 @@ css: styles/styles_BG.css
 </div>
 
 
----
-
 ### Internship in Protein Design & Structural Bioinformatics
 **EPFL Lausanne, Prof. Bruno E. Correia** (Oct. 2022 – Feb. 2023)  
 
-- Engineered AlphaFold-driven sequence designs for soluble analogs of membrane proteins.  
+- Engineered AlphaFold & proteinMPNN-driven sequence designs for soluble analogs of membrane proteins.  
 - Conducted medium-throughput protein expression and validated designs via X-ray crystallography and biophysical characterization.  
-- Applied CD Spectroscopy and SEC-MALS to assess protein folding and oligomerization stability.  
+- Applied CD Spectroscopy and SEC-MALS to assess protein folding and stability.  
+- Designed soluble analogues with native scaffolds. 
 
 <div class="skills-container">
   <span class="skill-block">Structural Bioinformatics</span>
   <span class="skill-block">Computational Protein Design</span>
-  <span class="skill-block">AlphaFold & Homology Modeling</span>
+  <span class="skill-block">AlphaFold</span>
   <span class="skill-block">X-ray Crystallography</span>
   <span class="skill-block">CD Spectroscopy</span>
   <span class="skill-block">SEC-MALS</span>
   <span class="skill-block">Protein Expression & Purification</span>
 </div>
 
----
 
 ### Internship in Protein Engineering
 **Max-Planck Institute, Prof. Kai Johnsson** (Nov. 2021 – Jul. 2022, Mar. 2023 – Jun. 2023)  
 
-- Characterized and engineered rhodamine-binding proteins for advanced microscopy applications.
+- Characterized and engineered rhodamine-binding proteins for super-resolution microscopy applications.
 - Developed a computational protein-engineering pipeline to optimize binding properties and stability.
 
 <div class="skills-container">
@@ -77,9 +75,10 @@ css: styles/styles_BG.css
   <span class="skill-block">Molecular Cloning</span>
   <span class="skill-block">Yeast Display</span>
   <span class="skill-block">ITC & FP Assays</span>
+  <span class="skill-block">Molecular Docking</span>
 </div>
 
-
+---
 
 ## Education
 
@@ -108,4 +107,23 @@ Covered Biophysical Chemistry, Drug Research, Bioinformatics
 
 **2nd European Rosettacon, Leipzig, Germany** (Sep. 2023)  
 Presented poster: "Mol2Pro: Generation of small-molecule-binding proteins using a pre-trained language model."  
+
+---
+
+### Informatics 
+**Python** (*advanced*) <br>
+**GROMACS** (*intermediate*) <br>
+**Bash** (*advanced*) <br>
+---
+
+## Rewards + Scholarships 
+
+*April 2022 - December 2024* <br>
+**German Scholarship Foundation**
+
+*April 2024 - November 2024*  <br>
+**PROMOS, University Heidelberg**
+
+*June 2023 - October*  <br>
+**ERASMUS+**
 
