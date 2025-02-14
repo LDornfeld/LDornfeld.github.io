@@ -2,7 +2,7 @@
   {
     "objectID": "blog/index.html",
     "href": "blog/index.html",
-    "title": "Lars Dornfeld personal website",
+    "title": "",
     "section": "",
     "text": "First blog post\n\n\n\n\n\n\n\n\n\n\n\nFeb 13, 2025\n\n\nLars Dornfeld\n\n\n\n\n\n\nNo matching items"
   },
@@ -23,35 +23,35 @@
   {
     "objectID": "experiences.html",
     "href": "experiences.html",
-    "title": "Lars Dornfeld personal website",
+    "title": "",
     "section": "",
     "text": "ETH Zürich, Prof. Sereina Riniker (Apr. 2024 – Dec. 2024)\n\nApplied enhanced sampling molecular dynamics to study cyclic peptide permeability and structure-activity relationships.\n\nDeveloped computational workflows integrating GROMACS, PLUMED, and RDKit for molecular simulations.\n\nConducted statistical physics-based analysis to interpret simulation outcomes.\n\nSkills:\n\n\nMolecular Dynamics (MD) Enhanced Sampling Techniques GROMACS PLUMED RDKit Computational Chemistry Statistical Physics\n\n\n\n\n\nIBMB Barcelona, Dr. Noelia Ferruz (Jun. 2023 – Oct. 2023)\n\nTrained and optimized large language models (LLMs) for predicting protein-small molecule interactions.\n\nImplemented and fine-tuned transformer architectures (HuggingFace, PyTorch) on high-performance computing (HPC) clusters.\n\nPresented research findings at the 2nd European Rosettacon, demonstrating practical applications of AI in protein engineering.\n\nSkills:\n\n\nMachine Learning (ML) Protein Language Models Transformer Models HuggingFace High-Performance Computing (HPC) Git & Version Control\n\n\n\n\n\nEPFL Lausanne, Prof. Bruno E. Correia (Oct. 2022 – Feb. 2023)\n\nEngineered AlphaFold-driven sequence designs for soluble analogs of membrane proteins.\n\nConducted medium-throughput protein expression and validated designs via X-ray crystallography and biophysical characterization.\n\nApplied CD Spectroscopy and SEC-MALS to assess protein folding and oligomerization stability.\n\n\nStructural Bioinformatics Computational Protein Design AlphaFold & Homology Modeling X-ray Crystallography CD Spectroscopy SEC-MALS Protein Expression & Purification\n\n\n\n\n\nMax-Planck Institute, Prof. Kai Johnsson (Nov. 2021 – Jul. 2022, Mar. 2023 – Jun. 2023)\n\nCharacterized and engineered rhodamine-binding proteins for advanced microscopy applications.\nDeveloped a computational protein-engineering pipeline to optimize binding properties and stability.\n\n\nProtein Expression Molecular Cloning Yeast Display ITC & FP Assays"
   },
   {
     "objectID": "experiences.html#relevant-experience",
     "href": "experiences.html#relevant-experience",
-    "title": "Lars Dornfeld personal website",
+    "title": "",
     "section": "",
     "text": "ETH Zürich, Prof. Sereina Riniker (Apr. 2024 – Dec. 2024)\n\nApplied enhanced sampling molecular dynamics to study cyclic peptide permeability and structure-activity relationships.\n\nDeveloped computational workflows integrating GROMACS, PLUMED, and RDKit for molecular simulations.\n\nConducted statistical physics-based analysis to interpret simulation outcomes.\n\nSkills:\n\n\nMolecular Dynamics (MD) Enhanced Sampling Techniques GROMACS PLUMED RDKit Computational Chemistry Statistical Physics\n\n\n\n\n\nIBMB Barcelona, Dr. Noelia Ferruz (Jun. 2023 – Oct. 2023)\n\nTrained and optimized large language models (LLMs) for predicting protein-small molecule interactions.\n\nImplemented and fine-tuned transformer architectures (HuggingFace, PyTorch) on high-performance computing (HPC) clusters.\n\nPresented research findings at the 2nd European Rosettacon, demonstrating practical applications of AI in protein engineering.\n\nSkills:\n\n\nMachine Learning (ML) Protein Language Models Transformer Models HuggingFace High-Performance Computing (HPC) Git & Version Control\n\n\n\n\n\nEPFL Lausanne, Prof. Bruno E. Correia (Oct. 2022 – Feb. 2023)\n\nEngineered AlphaFold-driven sequence designs for soluble analogs of membrane proteins.\n\nConducted medium-throughput protein expression and validated designs via X-ray crystallography and biophysical characterization.\n\nApplied CD Spectroscopy and SEC-MALS to assess protein folding and oligomerization stability.\n\n\nStructural Bioinformatics Computational Protein Design AlphaFold & Homology Modeling X-ray Crystallography CD Spectroscopy SEC-MALS Protein Expression & Purification\n\n\n\n\n\nMax-Planck Institute, Prof. Kai Johnsson (Nov. 2021 – Jul. 2022, Mar. 2023 – Jun. 2023)\n\nCharacterized and engineered rhodamine-binding proteins for advanced microscopy applications.\nDeveloped a computational protein-engineering pipeline to optimize binding properties and stability.\n\n\nProtein Expression Molecular Cloning Yeast Display ITC & FP Assays"
   },
   {
     "objectID": "experiences.html#education",
     "href": "experiences.html#education",
-    "title": "Lars Dornfeld personal website",
+    "title": "",
     "section": "Education",
     "text": "Education\n\nM.Sc. Biochemistry\nUniversity of Heidelberg (2021 – 2024)\nSpecialization in Computational Biology, Protein Design & Machine Learning\n\n\nB.Sc. Molecular Biotechnology\nUniversity of Heidelberg (2018 – 2021)\nCovered Biophysical Chemistry, Drug Research, Bioinformatics"
   },
   {
     "objectID": "experiences.html#publications",
     "href": "experiences.html#publications",
-    "title": "Lars Dornfeld personal website",
+    "title": "",
     "section": "Publications",
     "text": "Publications\n\n“Computational design of soluble and functional membrane protein analogues” (Nature, 2024)\nRead Article | Download PDF\n“An atlas of protein homo-oligomerization across domains of life” (Cell, 2024)\nRead Article | Download PDF"
   },
   {
     "objectID": "experiences.html#conferences",
     "href": "experiences.html#conferences",
-    "title": "Lars Dornfeld personal website",
+    "title": "",
     "section": "Conferences",
     "text": "Conferences\n2nd European Rosettacon, Leipzig, Germany (Sep. 2023)\nPresented poster: “Mol2Pro: Generation of small-molecule-binding proteins using a pre-trained language model.”"
   },
