@@ -4,7 +4,7 @@ css: styles/styles_BG.css
 about:
   id: hero-heading
   template: trestles
-  image: resources/profile.jpg
+  image: resources/profile.jpeg
   links:
     - text: 🦋 Bluesky 
       href: https://bsky.app/profile/ldornfeld.bsky.social

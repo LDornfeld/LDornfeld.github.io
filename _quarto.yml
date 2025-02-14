@@ -1,9 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
   
 website:
-  title: "Lars Dornfeld personal website"
   site-url: "https://ldornfeld.github.io"
   repo-url: "https://github.com/LDornfeld/LDornfeld.github.io"
   navbar:
@@ -16,7 +16,6 @@ website:
         text: 🦋 Bluesky
       - text: "Blog"
         href: "./blog/" 
-        
     
 
 format:
@@ -26,7 +25,7 @@ format:
       light: flatly
       dark: darkly
     toc: false
-    output-dir: docs
+    
 
     
 
