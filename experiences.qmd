@@ -23,7 +23,7 @@ Download CV [here](resources/CV_LarsDornfeld.pdf)
   <span class="skill-block">RDKit</span>
   <span class="skill-block">Computational Chemistry</span>
   <span class="skill-block">Statistical Physics</span>
-</div>y
+</div>
 
 
 ### Internship in Machine Learning for Protein Design
