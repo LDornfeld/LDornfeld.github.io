@@ -1,0 +1,6 @@
+@import url("styles.css");
+
+/* Override background */
+body {
+    background-image: none !important;
+}

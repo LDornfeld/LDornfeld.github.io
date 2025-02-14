@@ -1,0 +1,8 @@
+---
+comments: false
+listing:
+  contents: .
+  sort: "date desc"
+page-layout: full
+
+---

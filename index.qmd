@@ -1,0 +1,28 @@
+---
+title: "Lars Dornfeld"
+css: styles_BG.css
+about:
+  id: hero-heading
+  template: trestles
+  image: resources/profile.jpg
+  links:
+    - icon: Bluesky
+      text: 🦋 Bluesky 
+      href: https://bsky.app/profile/ldornfeld.bsky.social
+    - icon: github
+      text: Github
+      href: https://github.com/LDornfeld
+---
+
+## Hey There, Welcome! 👋
+I’m Lars Dornfeld, a scientist interested in **structural bioinformatics, protein design, and computational biology**. I started in the wet lab, working on protein engineering and chemical biology, before transitioning to computational methods, focusing on machine learning for protein design and molecular dynamics to study cyclic peptides.
+
+Feel free to explore my work — thanks for stopping by! 
+
+:::{#hero-heading}
+I am an incoming PhD student in the Biomolecular Design group at the Max Planck Institute for Biochemistry in Munich. My research will focus on enzyme design tools and applied projects, working at the interface of computational and experimental methods.
+
+I’ll be co-advised by Dr. Lukas Milles and Prof. Dr. Karsten Borgwardt, combining expertise from both fields to develop innovative approaches in biomolecular design.
+
+
+:::

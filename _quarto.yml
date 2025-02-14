@@ -1,0 +1,29 @@
+project:
+  type: website
+
+website:
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: experiences.qmd
+        text: Work
+      - href: bluesky.qmd
+        text: 🦋 Bluesky
+      - text: "Blog"
+        href: "./blog/" 
+        
+    
+
+format:
+  html:
+    css: styles.css
+    theme:
+      light: flatly
+      dark: darkly
+    toc: false
+
+    
+
+
+

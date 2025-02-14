@@ -1,0 +1,111 @@
+---
+format: html
+css: styles_BG.css
+---
+
+## Relevant Experience
+
+
+### Master’s Thesis in Molecular Dynamics Simulations
+**ETH Zürich, Prof. Sereina Riniker** (Apr. 2024 – Dec. 2024)  
+
+- Applied enhanced sampling molecular dynamics to study cyclic peptide permeability and structure-activity relationships.  
+- Developed computational workflows integrating GROMACS, PLUMED, and RDKit for molecular simulations.  
+- Conducted statistical physics-based analysis to interpret simulation outcomes.  
+
+**Skills:**  
+<div class="skills-container">
+  <span class="skill-block">Molecular Dynamics (MD)</span>
+  <span class="skill-block">Enhanced Sampling Techniques</span>
+  <span class="skill-block">GROMACS</span>
+  <span class="skill-block">PLUMED</span>
+  <span class="skill-block">RDKit</span>
+  <span class="skill-block">Computational Chemistry</span>
+  <span class="skill-block">Statistical Physics</span>
+</div>
+
+
+---
+
+### Internship in Machine Learning for Protein Design
+**IBMB Barcelona, Dr. Noelia Ferruz** (Jun. 2023 – Oct. 2023)  
+
+- Trained and optimized large language models (LLMs) for predicting protein-small molecule interactions.  
+- Implemented and fine-tuned transformer architectures (HuggingFace, PyTorch) on high-performance computing (HPC) clusters.  
+- Presented research findings at the 2nd European Rosettacon, demonstrating practical applications of AI in protein engineering.  
+
+**Skills:**  
+<div class="skills-container">
+  <span class="skill-block">Machine Learning (ML)</span>
+  <span class="skill-block">Protein Language Models</span>
+  <span class="skill-block">Transformer Models</span>
+  <span class="skill-block">HuggingFace</span>
+  <span class="skill-block">High-Performance Computing (HPC)</span>
+  <span class="skill-block">Git & Version Control</span>
+</div>
+
+
+---
+
+### Internship in Protein Design & Structural Bioinformatics
+**EPFL Lausanne, Prof. Bruno E. Correia** (Oct. 2022 – Feb. 2023)  
+
+- Engineered AlphaFold-driven sequence designs for soluble analogs of membrane proteins.  
+- Conducted medium-throughput protein expression and validated designs via X-ray crystallography and biophysical characterization.  
+- Applied CD Spectroscopy and SEC-MALS to assess protein folding and oligomerization stability.  
+
+<div class="skills-container">
+  <span class="skill-block">Structural Bioinformatics</span>
+  <span class="skill-block">Computational Protein Design</span>
+  <span class="skill-block">AlphaFold & Homology Modeling</span>
+  <span class="skill-block">X-ray Crystallography</span>
+  <span class="skill-block">CD Spectroscopy</span>
+  <span class="skill-block">SEC-MALS</span>
+  <span class="skill-block">Protein Expression & Purification</span>
+</div>
+
+---
+
+### Internship in Protein Engineering
+**Max-Planck Institute, Prof. Kai Johnsson** (Nov. 2021 – Jul. 2022, Mar. 2023 – Jun. 2023)  
+
+- Characterized and engineered rhodamine-binding proteins for advanced microscopy applications.
+- Developed a computational protein-engineering pipeline to optimize binding properties and stability.
+
+<div class="skills-container">
+  <span class="skill-block">Protein Expression</span>
+  <span class="skill-block">Molecular Cloning</span>
+  <span class="skill-block">Yeast Display</span>
+  <span class="skill-block">ITC & FP Assays</span>
+</div>
+
+
+
+## Education
+
+
+### M.Sc. Biochemistry
+**University of Heidelberg** (2021 – 2024)  
+Specialization in Computational Biology, Protein Design & Machine Learning  
+
+### B.Sc. Molecular Biotechnology 
+**University of Heidelberg** (2018 – 2021)  
+Covered Biophysical Chemistry, Drug Research, Bioinformatics  
+
+---
+
+## Publications
+
+- **"Computational design of soluble and functional membrane protein analogues"** (*Nature*, 2024)  
+  [Read Article](https://doi.org/10.1038/s41586-024-07601-y) | [Download PDF](https://www.nature.com/articles/s41586-024-07601-y.pdf)  
+
+- **"An atlas of protein homo-oligomerization across domains of life"** (*Cell*, 2024)  
+  [Read Article](https://doi.org/10.1016/j.cell.2024.01.022) | [Download PDF](https://www.cell.com/cell/pdf/S0092-8674(24)00059-X.pdf)
+
+---
+
+## Conferences
+
+**2nd European Rosettacon, Leipzig, Germany** (Sep. 2023)  
+Presented poster: "Mol2Pro: Generation of small-molecule-binding proteins using a pre-trained language model."  
+
