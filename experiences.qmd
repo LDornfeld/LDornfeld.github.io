@@ -2,9 +2,10 @@
 format: html
 css: styles/styles_BG.css
 ---
+# My professional journey
+Download CV: [here](resources/CV_LarsDornfeld.pdf)
 
 ## Relevant Experience
-Download CV [here](resources/CV_LarsDornfeld.pdf)
 
 ### Master’s Thesis in Molecular Dynamics Simulations
 **ETH Zürich, Prof. Sereina Riniker** (Apr. 2024 – Dec. 2024)  
@@ -25,6 +26,7 @@ Download CV [here](resources/CV_LarsDornfeld.pdf)
   <span class="skill-block">Statistical Physics</span>
 </div>
 
+---
 
 ### Internship in Machine Learning for Protein Design
 **IBMB Barcelona, Dr. Noelia Ferruz** (Jun. 2023 – Oct. 2023)  
@@ -44,6 +46,7 @@ Download CV [here](resources/CV_LarsDornfeld.pdf)
   <span class="skill-block">Git & Version Control</span>
 </div>
 
+---
 
 ### Internship in Protein Design & Structural Bioinformatics
 **EPFL Lausanne, Prof. Bruno E. Correia** (Oct. 2022 – Feb. 2023)  
@@ -63,6 +66,7 @@ Download CV [here](resources/CV_LarsDornfeld.pdf)
   <span class="skill-block">Protein Expression & Purification</span>
 </div>
 
+---
 
 ### Internship in Protein Engineering
 **Max-Planck Institute, Prof. Kai Johnsson** (Nov. 2021 – Jul. 2022, Mar. 2023 – Jun. 2023)  
@@ -79,6 +83,7 @@ Download CV [here](resources/CV_LarsDornfeld.pdf)
 </div>
 
 ---
+
 
 ## Education
 

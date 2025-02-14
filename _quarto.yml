@@ -24,7 +24,7 @@ format:
     theme:
       light: flatly
       dark: darkly
-    fontsize: 0.90
+    fontsize: 1.0em
     toc: false
     
 
