@@ -1,0 +1,9 @@
+@import url("styles.css");
+
+/* Add Background */
+body {
+    background-image: url("resources/RT_bright.svg");
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: repeat-z;
+}

@@ -1,0 +1,39 @@
+/* SKILLS BLOCK */
+.skills-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 0;
+    align-items: flex-start;
+}
+
+.skill-block {
+    background-color: #f1f1f1;
+    color: #333;
+    padding: 4px 8px;
+    border-radius: 6px;
+    font-size: 14px;
+    font-weight: 500;
+    border: 0.5px solid #d4d4d4;
+    white-space: nowrap;
+    display: inline-flex;
+    align-items: center;
+    margin-bottom: 6px;
+}
+
+/*TEXT BLOCKS*/
+/* centered title */
+.centered-title {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/*BLUESKY EMBEDDED*/
+.bluesky-embed {
+    width: 100%;
+    max-width: 500px;
+    height: 600px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
