@@ -14,7 +14,7 @@ about:
 ---
 
 ## Hey There, Welcome! 👋
-I’m Lars Dornfeld, a scientist interested in **structural bioinformatics, protein design, and computational biology**. I started in the wet lab, working on protein engineering and chemical biology, before transitioning to computational methods, focusing on machine learning for protein design and molecular dynamics to study cyclic peptides.
+I’m Lars Dornfeld, a scientist interested in **structural bioinformatics, protein design, and computational biology**. I started in the wet lab, working on protein engineering and chemical biology, before transitioning to computational methods, focusing on machine learning for protein design.
 
 Feel free to explore my work — thanks for stopping by! 
 

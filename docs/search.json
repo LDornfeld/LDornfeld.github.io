@@ -11,14 +11,14 @@
     "href": "index.html",
     "title": "Lars Dornfeld",
     "section": "",
-    "text": "I’m Lars Dornfeld, a scientist interested in structural bioinformatics, protein design, and computational biology. I started in the wet lab, working on protein engineering and chemical biology, before transitioning to computational methods, focusing on machine learning for protein design and molecular dynamics to study cyclic peptides.\nFeel free to explore my work — thanks for stopping by!\n\n  \n    \n\n    \n  \n     🦋 Bluesky\n  \n  \n    \n     Github\n  \n\n  \n  \nI am an incoming PhD student in the Biomolecular Design group at the Max Planck Institute for Biochemistry in Munich. My research will focus on enzyme design tools and applied projects, working at the interface of computational and experimental methods.\nI’ll be co-advised by Dr. Lukas Milles and Prof. Dr. Karsten Borgwardt, combining expertise from both fields to develop innovative approaches in biomolecular design."
+    "text": "I’m Lars Dornfeld, a scientist interested in structural bioinformatics, protein design, and computational biology. I started in the wet lab, working on protein engineering and chemical biology, before transitioning to computational methods, focusing on machine learning for protein design.\nFeel free to explore my work — thanks for stopping by!\n\n  \n    \n\n    \n  \n     🦋 Bluesky\n  \n  \n    \n     Github\n  \n\n  \n  \nI am an incoming PhD student in the Biomolecular Design group at the Max Planck Institute for Biochemistry in Munich. My research will focus on enzyme design tools and applied projects, working at the interface of computational and experimental methods.\nI’ll be co-advised by Dr. Lukas Milles and Prof. Dr. Karsten Borgwardt, combining expertise from both fields to develop innovative approaches in biomolecular design."
   },
   {
     "objectID": "index.html#hey-there-welcome",
     "href": "index.html#hey-there-welcome",
     "title": "Lars Dornfeld",
     "section": "",
-    "text": "I’m Lars Dornfeld, a scientist interested in structural bioinformatics, protein design, and computational biology. I started in the wet lab, working on protein engineering and chemical biology, before transitioning to computational methods, focusing on machine learning for protein design and molecular dynamics to study cyclic peptides.\nFeel free to explore my work — thanks for stopping by!\n\n  \n    \n\n    \n  \n     🦋 Bluesky\n  \n  \n    \n     Github\n  \n\n  \n  \nI am an incoming PhD student in the Biomolecular Design group at the Max Planck Institute for Biochemistry in Munich. My research will focus on enzyme design tools and applied projects, working at the interface of computational and experimental methods.\nI’ll be co-advised by Dr. Lukas Milles and Prof. Dr. Karsten Borgwardt, combining expertise from both fields to develop innovative approaches in biomolecular design."
+    "text": "I’m Lars Dornfeld, a scientist interested in structural bioinformatics, protein design, and computational biology. I started in the wet lab, working on protein engineering and chemical biology, before transitioning to computational methods, focusing on machine learning for protein design.\nFeel free to explore my work — thanks for stopping by!\n\n  \n    \n\n    \n  \n     🦋 Bluesky\n  \n  \n    \n     Github\n  \n\n  \n  \nI am an incoming PhD student in the Biomolecular Design group at the Max Planck Institute for Biochemistry in Munich. My research will focus on enzyme design tools and applied projects, working at the interface of computational and experimental methods.\nI’ll be co-advised by Dr. Lukas Milles and Prof. Dr. Karsten Borgwardt, combining expertise from both fields to develop innovative approaches in biomolecular design."
   },
   {
     "objectID": "experiences.html",
@@ -56,6 +56,13 @@
     "text": "Conferences\n2nd European Rosettacon, Leipzig, Germany (Sep. 2023)\nPresented poster: “Mol2Pro: Generation of small-molecule-binding proteins using a pre-trained language model.”\n\n\nInformatics\nPython (advanced)  GROMACS (intermediate)  Bash (advanced)"
   },
   {
+    "objectID": "experiences.html#rewards-scholarships",
+    "href": "experiences.html#rewards-scholarships",
+    "title": "",
+    "section": "Rewards + Scholarships",
+    "text": "Rewards + Scholarships\nApril 2022 - December 2024  German Scholarship Foundation\nApril 2024 - November 2024  PROMOS, University Heidelberg\nJune 2023 - October  ERASMUS+"
+  },
+  {
     "objectID": "bluesky.html",
     "href": "bluesky.html",
     "title": "My Feed",
@@ -68,19 +75,5 @@
     "title": "First blog post",
     "section": "",
     "text": "My first blog post. More to come soon!"
-  },
-  {
-    "objectID": "experiences.html#sholarships",
-    "href": "experiences.html#sholarships",
-    "title": "",
-    "section": "Sholarships",
-    "text": "Sholarships"
-  },
-  {
-    "objectID": "experiences.html#rewards-scholarships",
-    "href": "experiences.html#rewards-scholarships",
-    "title": "",
-    "section": "Rewards + Scholarships",
-    "text": "Rewards + Scholarships\nApril 2022 - December 2024  German Scholarship Foundation\nApril 2024 - November 2024  PROMOS, University Heidelberg\nJune 2023 - October  ERASMUS+"
   }
 ]

@@ -114,6 +114,7 @@ Presented poster: "Mol2Pro: Generation of small-molecule-binding proteins using 
 **Python** (*advanced*) <br>
 **GROMACS** (*intermediate*) <br>
 **Bash** (*advanced*) <br>
+
 ---
 
 ## Rewards + Scholarships 
