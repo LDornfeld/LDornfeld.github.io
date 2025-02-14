@@ -4,4 +4,4 @@ date: 2025-02-13
 author: Lars Dornfeld
 ---
 
-This is the first blog test post. 
+My first blog post. More to come soon!
