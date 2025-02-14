@@ -4,7 +4,7 @@ css: styles/styles_BG.css
 ---
 
 ## Relevant Experience
-
+Download CV [here](resources/CV_LarsDornfeld.pdf)
 
 ### Master’s Thesis in Molecular Dynamics Simulations
 **ETH Zürich, Prof. Sereina Riniker** (Apr. 2024 – Dec. 2024)  
@@ -23,7 +23,7 @@ css: styles/styles_BG.css
   <span class="skill-block">RDKit</span>
   <span class="skill-block">Computational Chemistry</span>
   <span class="skill-block">Statistical Physics</span>
-</div>
+</div>y
 
 
 ### Internship in Machine Learning for Protein Design
