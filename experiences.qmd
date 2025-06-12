@@ -49,7 +49,7 @@ Download CV: [here](resources/CV_LarsDornfeld_2025.pdf)
 **AI4ProteinDesign Barcelona, Dr. Noelia Ferruz** (Jun 2023 – Oct 2023)  
 
 - Trained and optimized large language models to generate small-molecule-binding proteins.  
-- Fine-tuned transformer architectures on HPC clusters; mitigated over-fitting caused by limited data.  
+- Fine-tuned transformer architectures on HPC clusters.  
 - Presented results at the **2nd European Rosettacon**.  
 
 
@@ -67,7 +67,7 @@ Download CV: [here](resources/CV_LarsDornfeld_2025.pdf)
 ### Internship – Computational & Experimental Protein Design  
 **EPFL Lausanne, Prof. Bruno E. Correia** (Oct 2022 – Feb 2023)  
 
-- Implemented AlphaFold- & proteinMPNN-driven sequence designs for soluble analogues of membrane proteins.  
+- Used AlphaFold- & proteinMPNN-driven sequence designs to create soluble analogues of membrane proteins.  
 - Conducted medium-throughput protein expression and validated designs via X-ray crystallography and biophysical characterization (**CD**, **SEC-MALS**).  
 - Generated soluble analogues retaining native scaffolds.
 
