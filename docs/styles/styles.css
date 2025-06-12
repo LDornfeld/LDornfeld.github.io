@@ -1,13 +1,13 @@
 :root {
     /* Global font scaling */
-    --font-min: 0.95em;
-    --font-max: 1.15em;
+    --font-min: 0.85em;
+    --font-max: 1.05em;
 
     /* Heading scale ratios (relative to base) */
-    --scale-h1: 1.8;
+    --scale-h1: 1.6;
     --scale-h2: 1.4;
-    --scale-h3: 1.2;
-    --scale-h4: 1.05;
+    --scale-h3: 1.0;
+    --scale-h4: 1.0;
 
     /* Content width */
     --content-min-width: 40rem;
@@ -16,7 +16,8 @@
 
 /* Base layout and body text */
 body {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
     font-size: clamp(var(--font-min), 1.5vw, var(--font-max));
     line-height: 1.6;
     width: 100%;
