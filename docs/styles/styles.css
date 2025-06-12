@@ -1,3 +1,25 @@
+/* General Styles */
+body {
+    font-size: 1.1em;
+    /* increase from default 1em */
+    line-height: 1.6;
+    max-width: 960px;
+    /* widen content area */
+    margin: auto;
+    padding: 0 20px;
+}
+
+/* Headings */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 600;
+    line-height: 1.3;
+}
+
 /* SKILLS BLOCK */
 .skills-container {
     display: flex;
