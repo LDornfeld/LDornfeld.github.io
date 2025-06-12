@@ -3,22 +3,39 @@ format: html
 css: styles/styles_BG.css
 ---
 # My professional journey
-Download CV: [here](resources/CV_LarsDornfeld.pdf)
+Download CV: [here](resources/CV_LarsDornfeld_2025.pdf)
 
 ## Relevant Experience
 
-### Master’s Thesis in Molecular Dynamics Simulations
-**ETH Zürich, Prof. Sereina Riniker** (Apr. 2024 – Dec. 2024)  
+### PhD – Deep Learning-Driven Protein Design  
+**Max Planck Institute of Biochemistry, Prof. Lukas Milles** (Apr 2025 – present)  
 
-- Applied enhanced sampling molecular dynamics to study cyclic peptide permeability and structure-activity relationships.  
-- Developed computational workflows integrating GROMACS, PLUMED, and RDKit for molecular simulations.  
-- Conducted statistical physics-based analysis to interpret simulation outcomes.
-- Proposed several variants with improved permeability profiles. 
+- Developing DL-powered frameworks that integrate experimental feedback and modular design principles to boost protein stability and function.  
+- Extending state-of-the-art generative models with active-learning loops and high-throughput biophysical assays.  
 
-**Skills:**  
+<div class="skills-container">
+  <span class="skill-block">Protein Design</span>
+  <span class="skill-block">Deep Learning</span>
+  <span class="skill-block">PyTorch</span>
+  <span class="skill-block">Active Learning</span>
+  <span class="skill-block">High-Throughput Screening</span>
+  <span class="skill-block">Biophysics</span>
+</div>
+
+---
+
+### Master’s Thesis in Molecular Dynamics Simulations  
+**ETH Zürich, Prof. Sereina Riniker** (Apr 2024 – Dec 2024)  
+
+- Applied enhanced-sampling molecular dynamics to study cyclic-peptide permeability and structure-activity relationships.  
+- Developed computational workflows integrating **GROMACS**, **PLUMED**, and **RDKit**.  
+- Performed statistical-physics analyses to interpret simulation outcomes.  
+- Proposed peptide variants with improved permeability profiles.
+
+
 <div class="skills-container">
   <span class="skill-block">Molecular Dynamics (MD)</span>
-  <span class="skill-block">Enhanced Sampling Techniques</span>
+  <span class="skill-block">Enhanced Sampling</span>
   <span class="skill-block">GROMACS</span>
   <span class="skill-block">PLUMED</span>
   <span class="skill-block">RDKit</span>
@@ -28,33 +45,31 @@ Download CV: [here](resources/CV_LarsDornfeld.pdf)
 
 ---
 
-### Internship in Machine Learning for Protein Design
-**IBMB Barcelona, Dr. Noelia Ferruz** (Jun. 2023 – Oct. 2023)  
+### Internship – Machine Learning for Protein Design  
+**AI4ProteinDesign Barcelona, Dr. Noelia Ferruz** (Jun 2023 – Oct 2023)  
 
-- Trained and optimized large language models (LLMs) to generate small-molecule binding proteins.
-- Implemented and fine-tuned transformer architectures on high-performance computing (HPC) clusters.  
-- Limited success due to limited data availability and model overfitting.
-- Presented research findings at the 2nd European Rosettacon.
+- Trained and optimized large language models to generate small-molecule-binding proteins.  
+- Fine-tuned transformer architectures on HPC clusters; mitigated over-fitting caused by limited data.  
+- Presented results at the **2nd European Rosettacon**.  
 
-**Skills:**  
+
 <div class="skills-container">
-  <span class="skill-block">Machine Learning (ML)</span>
+  <span class="skill-block">Machine Learning</span>
   <span class="skill-block">Protein Language Models</span>
-  <span class="skill-block">Transformer Models</span>
+  <span class="skill-block">Transformers</span>
   <span class="skill-block">HuggingFace</span>
-  <span class="skill-block">High-Performance Computing (HPC)</span>
-  <span class="skill-block">Git & Version Control</span>
+  <span class="skill-block">HPC</span>
+  <span class="skill-block">Git</span>
 </div>
 
 ---
 
-### Internship in Protein Design & Structural Bioinformatics
-**EPFL Lausanne, Prof. Bruno E. Correia** (Oct. 2022 – Feb. 2023)  
+### Internship – Computational & Experimental Protein Design  
+**EPFL Lausanne, Prof. Bruno E. Correia** (Oct 2022 – Feb 2023)  
 
-- Engineered AlphaFold & proteinMPNN-driven sequence designs for soluble analogs of membrane proteins.  
-- Conducted medium-throughput protein expression and validated designs via X-ray crystallography and biophysical characterization.  
-- Applied CD Spectroscopy and SEC-MALS to assess protein folding and stability.  
-- Designed soluble analogues with native scaffolds. 
+- Implemented AlphaFold- & proteinMPNN-driven sequence designs for soluble analogues of membrane proteins.  
+- Conducted medium-throughput protein expression and validated designs via X-ray crystallography and biophysical characterization (**CD**, **SEC-MALS**).  
+- Generated soluble analogues retaining native scaffolds.
 
 <div class="skills-container">
   <span class="skill-block">Structural Bioinformatics</span>
@@ -63,16 +78,16 @@ Download CV: [here](resources/CV_LarsDornfeld.pdf)
   <span class="skill-block">X-ray Crystallography</span>
   <span class="skill-block">CD Spectroscopy</span>
   <span class="skill-block">SEC-MALS</span>
-  <span class="skill-block">Protein Expression & Purification</span>
+  <span class="skill-block">Protein Expression</span>
 </div>
 
 ---
 
-### Internship in Protein Engineering
-**Max-Planck Institute, Prof. Kai Johnsson** (Nov. 2021 – Jul. 2022, Mar. 2023 – Jun. 2023)  
+### Internship – Protein Engineering  
+**Max Planck Institute, Prof. Kai Johnsson** (Nov 2021 – Jul 2022 & Mar 2023 – Jun 2023)  
 
-- Characterized and engineered rhodamine-binding proteins for super-resolution microscopy applications.
-- Developed a computational protein-engineering pipeline to optimize binding properties and stability.
+- Characterized and engineered rhodamine-binding proteins for super-resolution microscopy.  
+- Developed a user-friendly computational pipeline to optimize binding properties and stability.
 
 <div class="skills-container">
   <span class="skill-block">Protein Expression</span>
@@ -84,52 +99,66 @@ Download CV: [here](resources/CV_LarsDornfeld.pdf)
 
 ---
 
-
 ## Education
 
+### M.Sc. Biochemistry  
+**University of Heidelberg** (2021 – 2024) – GPA 1.0 / 4.0  
+Focused on Computational Biology, Protein Design & Machine Learning
 
-### M.Sc. Biochemistry
-**University of Heidelberg** (2021 – 2024)  
-Specialization in Computational Biology, Protein Design & Machine Learning  
-
-### B.Sc. Molecular Biotechnology 
-**University of Heidelberg** (2018 – 2021)  
-Covered Biophysical Chemistry, Drug Research, Bioinformatics  
+### B.Sc. Molecular Biotechnology  
+**University of Heidelberg** (2018 – 2021) – GPA 1.3 / 3.7  
+Covered Biophysical Chemistry, Drug Research, Bioinformatics
 
 ---
 
 ## Publications
 
 - **"Computational design of soluble and functional membrane protein analogues"** (*Nature*, 2024)  
-  [Read Article](https://doi.org/10.1038/s41586-024-07601-y) | [Download PDF](https://www.nature.com/articles/s41586-024-07601-y.pdf)  
+  [Read Article](https://doi.org/10.1038/s41586-024-07601-y) | [PDF](https://www.nature.com/articles/s41586-024-07601-y.pdf)  
 
 - **"An atlas of protein homo-oligomerization across domains of life"** (*Cell*, 2024)  
-  [Read Article](https://doi.org/10.1016/j.cell.2024.01.022) | [Download PDF](https://www.cell.com/cell/pdf/S0092-8674(24)00059-X.pdf)
+  [Read Article](https://doi.org/10.1016/j.cell.2024.01.022) | [PDF](https://www.cell.com/cell/pdf/S0092-8674(24)00059-X.pdf)
 
 ---
 
-## Conferences
+## Conferences & Presentations
 
-**2nd European Rosettacon, Leipzig, Germany** (Sep. 2023)  
-Presented poster: "Mol2Pro: Generation of small-molecule-binding proteins using a pre-trained language model."  
-
----
-
-### Informatics 
-**Python** (*advanced*) <br>
-**GROMACS** (*intermediate*) <br>
-**Bash** (*advanced*) <br>
+**2nd European Rosettacon, Leipzig, Germany** (Sep 2023)  
+Presented poster: *"Mol2Pro: Generation of small-molecule-binding proteins using a pre-trained language model."*
 
 ---
 
-## Rewards + Scholarships 
+## Technical Toolkit
 
-*April 2022 - December 2024* <br>
-**German Scholarship Foundation**
+<div class="skills-container">
+  <span class="skill-block">Python (advanced)</span>
+  <span class="skill-block">PyTorch (advanced)</span>
+  <span class="skill-block">GROMACS (intermediate)</span>
+  <span class="skill-block">Bash/Linux (advanced)</span>
+  <span class="skill-block">Git (advanced)</span>
+  <span class="skill-block">HPC (Slurm, GPU)</span>
+  <span class="skill-block">RDKit</span>
+  <span class="skill-block">PyMOL / VMD</span>
+</div>
 
-*April 2024 - November 2024*  <br>
-**PROMOS, University Heidelberg**
+---
 
-*June 2023 - October*  <br>
-**ERASMUS+**
+## Scholarships & Awards
 
+*Apr 2022 – Dec 2024*  
+**German Academic Scholarship Foundation (Studienstiftung des deutschen Volkes)**
+
+*Apr 2024 – Nov 2024*  
+**PROMOS Grant, University of Heidelberg**
+
+*Jun 2023 – Oct 2023*  
+**ERASMUS+ Mobility Grant**
+
+---
+
+## Supervision & Engagement
+
+- **Laboratory Supervisor** (2021 – 2023): Organized and supervised drug-testing practical courses at Heidelberg University.  
+- **Biochemistry Student Council & Buddy Program** (2021 – 2022): Coordinated mentorship for incoming international students.
+
+---

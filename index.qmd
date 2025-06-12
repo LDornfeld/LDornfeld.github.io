@@ -6,22 +6,20 @@ about:
   template: trestles
   image: resources/profile.jpeg
   links:
-    - text: 🦋 Bluesky 
+    - text: 🦋 Bluesky
       href: https://bsky.app/profile/ldornfeld.bsky.social
     - icon: github
-      text: Github
+      text: GitHub
       href: https://github.com/LDornfeld
 ---
 
-## Hey There, Welcome! 👋
-I’m Lars Dornfeld, a scientist interested in **structural bioinformatics, protein design, and computational biology**. I started in the wet lab, working on protein engineering and chemical biology, before transitioning to computational methods, focusing on machine learning for protein design.
+## Hey there—welcome! 👋
+I’m **Lars Dornfeld**, a computational protein designer fascinated by **structural bioinformatics, de novo protein design, and machine-learning-powered biology**.  
+After starting in the wet lab—engineering proteins and probing chemical biology—I shifted my focus to computational methods, building deep-learning models that accelerate discovery.
 
-Feel free to explore my work — thanks for stopping by! 
+Explore my projects, papers, and code below. Thanks for stopping by!
 
 :::{#hero-heading}
-I am an incoming PhD student in the Biomolecular Design group at the Max Planck Institute for Biochemistry in Munich. My research will focus on enzyme design tools and applied projects, working at the interface of computational and experimental methods.
-
-I’ll be co-advised by Dr. Lukas Milles and Prof. Dr. Karsten Borgwardt, combining expertise from both fields to develop innovative approaches in biomolecular design.
-
-
+I’m a PhD student in the Biomolecular Design Group at the Max Planck Institute of Biochemistry (Munich), advised by **Prof. Lukas Milles** with **Prof. Karsten Borgwardt** guiding my deep-learning work.  
+My research bridges high-throughput wet-lab automation with state-of-the-art neural networks to create novel, functional proteins from scratch.
 :::
