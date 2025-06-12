@@ -20,6 +20,37 @@ h6 {
     line-height: 1.3;
 }
 
+/* Responsive breakpoints */
+/* Adapt for different screen sizes */
+@media (min-width: 768px) {
+    body {
+        font-size: 1.15em;
+    }
+
+    #hero-heading {
+        font-size: 1.2em;
+    }
+
+    .skill-block {
+        font-size: 1.05em;
+    }
+}
+
+@media (min-width: 1024px) {
+    body {
+        font-size: 1.2em;
+        max-width: 100ch;
+    }
+
+    #hero-heading {
+        font-size: 1.25em;
+    }
+
+    .skill-block {
+        font-size: 1.1em;
+    }
+}
+
 /* SKILLS BLOCK */
 .skills-container {
     display: flex;
