@@ -22,8 +22,6 @@ website:
 format:
   html:
     css: styles/styles.css
-    includes:
-      in-header: styles/roboto-font.html
     theme:
       light: flatly
       dark: darkly

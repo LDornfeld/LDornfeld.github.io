@@ -1,6 +1,6 @@
 :root {
     /* Global font scaling */
-    --font-min: 0.85em;
+    --font-min: 0.90em;
     --font-max: 1.05em;
 
     /* Heading scale ratios (relative to base) */
@@ -16,8 +16,8 @@
 
 /* Base layout and body text */
 body {
-    font-family: 'Roboto', sans-serif;
-    font-weight: 100;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-weight: 200;
     font-size: clamp(var(--font-min), 1.5vw, var(--font-max));
     line-height: 1.6;
     width: 100%;
