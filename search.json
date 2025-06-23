@@ -1,24 +1,24 @@
 [
   {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "",
+    "objectID": "impressum.html",
+    "href": "impressum.html",
+    "title": "Impressum",
     "section": "",
-    "text": "First blog post\n\n\n\n\n\n\n\n\n\n\n\nFeb 13, 2025\n\n\nLars Dornfeld\n\n\n\n\n\n\nNo matching items"
+    "text": "Lars Dornfeld\nMax-Planck-Institut für Biochemie\nAm Klopferspitz 18\nD-82152 Martinsried\nE-Mail: impressum-dornfeld@posteo.com"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Lars Dornfeld",
+    "objectID": "blog/2025_02_13_FirstPost/blog_message.html",
+    "href": "blog/2025_02_13_FirstPost/blog_message.html",
+    "title": "First blog post",
     "section": "",
-    "text": "I’m Lars Dornfeld, a computational protein designer fascinated by structural bioinformatics, de novo protein design, and machine-learning-powered biology.\nAfter starting in the wet lab—engineering proteins and probing chemical biology—I shifted my focus to computational methods, building deep-learning models that accelerate discovery.\nExplore my projects, papers, and code below. Thanks for stopping by!\n\n  \n    \n\n    \n  \n     🦋 Bluesky\n  \n  \n    \n     GitHub\n  \n\n  \n  \nI’m a PhD student in the Biomolecular Design Group at the Max Planck Institute of Biochemistry (Munich), advised by Prof. Lukas Milles with Prof. Karsten Borgwardt guiding my deep-learning work.\nMy research bridges high-throughput wet-lab automation with state-of-the-art neural networks to create novel, functional proteins from scratch."
+    "text": "My first blog post. More to come soon!"
   },
   {
-    "objectID": "index.html#hey-therewelcome",
-    "href": "index.html#hey-therewelcome",
-    "title": "Lars Dornfeld",
+    "objectID": "bluesky.html",
+    "href": "bluesky.html",
+    "title": "My Feed",
     "section": "",
-    "text": "I’m Lars Dornfeld, a computational protein designer fascinated by structural bioinformatics, de novo protein design, and machine-learning-powered biology.\nAfter starting in the wet lab—engineering proteins and probing chemical biology—I shifted my focus to computational methods, building deep-learning models that accelerate discovery.\nExplore my projects, papers, and code below. Thanks for stopping by!\n\n  \n    \n\n    \n  \n     🦋 Bluesky\n  \n  \n    \n     GitHub\n  \n\n  \n  \nI’m a PhD student in the Biomolecular Design Group at the Max Planck Institute of Biochemistry (Munich), advised by Prof. Lukas Milles with Prof. Karsten Borgwardt guiding my deep-learning work.\nMy research bridges high-throughput wet-lab automation with state-of-the-art neural networks to create novel, functional proteins from scratch."
+    "text": "My Feed"
   },
   {
     "objectID": "experiences.html",
@@ -77,17 +77,24 @@
     "text": "Laboratory Supervisor (2021 – 2023): Organized and supervised drug-testing practical courses at Heidelberg University.\n\nBiochemistry Student Council & Buddy Program (2021 – 2022): Coordinated mentorship for incoming international students."
   },
   {
-    "objectID": "bluesky.html",
-    "href": "bluesky.html",
-    "title": "My Feed",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Lars Dornfeld",
     "section": "",
-    "text": "My Feed"
+    "text": "I’m Lars Dornfeld, a computational protein designer fascinated by structural bioinformatics, de novo protein design, and machine-learning-powered biology.\nAfter starting in the wet lab—engineering proteins and probing chemical biology—I shifted my focus to computational methods, building deep-learning models that accelerate discovery.\nExplore my projects, papers, and code below. Thanks for stopping by!\n\n  \n    \n\n    \n  \n     🦋 Bluesky\n  \n  \n    \n     GitHub\n  \n\n  \n  \nI’m a PhD student in the Biomolecular Design Group at the Max Planck Institute of Biochemistry (Munich), advised by Prof. Lukas Milles with Prof. Karsten Borgwardt guiding my deep-learning work.\nMy research bridges high-throughput wet-lab automation with state-of-the-art neural networks to create novel, functional proteins from scratch."
   },
   {
-    "objectID": "blog/2025_02_13_FirstPost/blog_message.html",
-    "href": "blog/2025_02_13_FirstPost/blog_message.html",
-    "title": "First blog post",
+    "objectID": "index.html#hey-therewelcome",
+    "href": "index.html#hey-therewelcome",
+    "title": "Lars Dornfeld",
     "section": "",
-    "text": "My first blog post. More to come soon!"
+    "text": "I’m Lars Dornfeld, a computational protein designer fascinated by structural bioinformatics, de novo protein design, and machine-learning-powered biology.\nAfter starting in the wet lab—engineering proteins and probing chemical biology—I shifted my focus to computational methods, building deep-learning models that accelerate discovery.\nExplore my projects, papers, and code below. Thanks for stopping by!\n\n  \n    \n\n    \n  \n     🦋 Bluesky\n  \n  \n    \n     GitHub\n  \n\n  \n  \nI’m a PhD student in the Biomolecular Design Group at the Max Planck Institute of Biochemistry (Munich), advised by Prof. Lukas Milles with Prof. Karsten Borgwardt guiding my deep-learning work.\nMy research bridges high-throughput wet-lab automation with state-of-the-art neural networks to create novel, functional proteins from scratch."
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "",
+    "section": "",
+    "text": "First blog post\n\n\n\n\n\n\n\n\n\n\n\nFeb 13, 2025\n\n\nLars Dornfeld\n\n\n\n\n\n\nNo matching items"
   }
 ]
