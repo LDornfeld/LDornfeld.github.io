@@ -89,5 +89,19 @@
     "title": "First blog post",
     "section": "",
     "text": "My first blog post. More to come soon!"
+  },
+  {
+    "objectID": "impressum.html",
+    "href": "impressum.html",
+    "title": "Impressum",
+    "section": "",
+    "text": "Lars Dornfeld\nMax-Planck-Institut für Biochemie\nAm Klopferspitz 18\nD-82152 Martinsried\nE-Mail: impressum-dornfeld@posteo.com"
+  },
+  {
+    "objectID": "impressum.html#impressum",
+    "href": "impressum.html#impressum",
+    "title": "Impressum",
+    "section": "",
+    "text": "Lars Dornfeld\nMax-Planck-Institut für Biochemie Am Klopferspitz 18 D-82152 Martinsried\nE-Mail: impressum-dornfeld@posteo.com"
   }
 ]

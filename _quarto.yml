@@ -4,6 +4,11 @@ project:
 
   
 website:
+  page-footer:
+     left: "© 2025 Lars Dornfeld"
+     right:
+      - text: "Impressum"
+        href: impressum.qmd
   site-url: "https://ldornfeld.github.io"
   repo-url: "https://github.com/LDornfeld/LDornfeld.github.io"
   navbar:
@@ -16,13 +21,8 @@ website:
         text: 🦋 Bluesky
       - text: "Blog"
         href: "./blog/" 
-  page-footer:
-  left: "© 2025 Lars Dornfeld"
-  right:
-    - text: "Impressum"
-      href: impressum.html
-        
-    
+
+
 
 format:
   html:
