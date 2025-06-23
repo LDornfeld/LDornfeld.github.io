@@ -16,6 +16,11 @@ website:
         text: 🦋 Bluesky
       - text: "Blog"
         href: "./blog/" 
+    page-footer:
+    left: "© 2025 Lars Dornfeld"
+    right:
+      - text: "Impressum"
+        href: impressum.html
         
     
 
