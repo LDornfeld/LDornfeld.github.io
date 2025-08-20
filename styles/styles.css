@@ -1,7 +1,7 @@
 :root {
     /* Global font scaling */
-    --font-min: 0.90em;
-    --font-max: 1.05em;
+    --font-min: 1.1em;
+    --font-max: 1.4em;
 
     /* Heading scale ratios (relative to base) */
     --scale-h1: 1.6;
